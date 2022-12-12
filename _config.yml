@@ -1,9 +1,9 @@
 # Site settings
-title: KOU Blog
-SEOTitle: KOU | KOU Blog
+title: devasking Blog
+SEOTitle: devasking | devasking Blog
 header-img: img/home-bg.jpg
 email: frankcalm@outlook.com
-description: "这里是 @KOU 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
+description: "这里是 @devasking 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
 keyword: "KOU Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
 url: "Koumeta.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: KOU
-zhihu_username: KOU
-github_username: KOU
-twitter_username: KOU
-#facebook_username:  huxpro
+weibo_username: devasking
+zhihu_username: devasking
+github_username: devasking
+twitter_username: devasking
+#facebook_username:  devasking
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
